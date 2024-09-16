@@ -1,0 +1,27 @@
+{
+    "gap": {
+        "opciones": {
+            "almuerzos y refrigerios": {
+                "respuesta": "Mensaje raro para poner GH",
+                "subopciones": {
+                    "puedo repetir refrigerio o almuerzo": "No☹️, yo también quedé con ganas de más porque todo estaba muy rico, pero a cada persona se le asignó su comida y sí te damos más dejamos a otra persona sin comer, sí quieres la próxima salimos a comer y así podemos comer todo lo que queramos",
+                    "que pasa si se me perdio el carnet": "Los horarios de servicio son de 12:00 PM a 3:00 PM para almuerzos y de 6:00 PM a 9:00 PM para cenas."
+                }
+            },
+            "turnos": {
+                "respuesta": "Puedes obtener información sobre los turnos de la siguiente manera:",
+                "subopciones": {
+                    "consultar turnos": "Para consultar tus turnos, puedes acceder al sistema de gestión interna usando tu identificador de empleado.",
+                    "cambiar turno": "Para cambiar un turno, necesitas contactar al departamento de recursos humanos."
+                }
+            },
+            "generalidades": {
+                "respuesta": "Aquí puedes encontrar información general sobre la organización y sus políticas:",
+                "subopciones": {
+                    "politicas de la empresa": "Las políticas de la empresa están diseñadas para asegurar un ambiente de trabajo seguro y respetuoso para todos.",
+                    "normativas": "Las normativas internas incluyen regulaciones sobre el uso de los espacios comunes y la conducta en el lugar de trabajo."
+                }
+            }
+        }
+    }
+}
