@@ -1,22 +1,36 @@
 {
     "gap": {
         "opciones": {
-            "almuerzos y refrigerios": {
-                "respuesta": "Mensaje raro para poner GH",
+            "alimentacion": {
                 "subopciones": {
                     "puedo repetir refrigerio o almuerzo": "No☹️, yo también quedé con ganas de más porque todo estaba muy rico, pero a cada persona se le asignó su comida y sí te damos más dejamos a otra persona sin comer, sí quieres la próxima salimos a comer y así podemos comer todo lo que queramos",
-                    "que pasa si se me perdio el carnet": "Los horarios de servicio son de 12:00 PM a 3:00 PM para almuerzos y de 6:00 PM a 9:00 PM para cenas."
+                    "que pasa si se me perdio el carnet": "No hay respuesta todavia",
+                    "que hago si me aparece que no tengo ni refrigerio ni almuerzo":"¡OMG! Dame un segundo que me dio un mini infarto…. Pero tranqui aqui resolvemos, te vamos a mandar nuestro manual de supervivencia a Bambuu, alli podras encontrar los pasos a seguir y en caso de que nada funione los telefonos de contacto de las personas encargadas",
+                    "cuantos refrigerios o almuerzos tengo":"Las personas que cumplen con un turno es decir 3 horas o menos tienen refrigerio, y las personas que cumplen con 2 turnos o mas tienen almuerzo, pero tranqui, igual aquí te mando un PDF donde dice que tiene cada persona el día de hoy",
+                    "hasta que hora puedo reclamar mi refrigerio o almuerzo":"No hay respuesta todavia x2",
+                    "puedo pagar un extra para reclamar algo distinto":"no hay respuesta todavia x3",
+                    "puedo reclamar el refrigerio o almuerzo otro dia":"No, el refrigerio o almuerzo solo es válido por el día de tu turno y no es acumulable o se puede consumir otro día. Busca la manera de poder reclamarlo de lo contrario se pierde esa platica y Días se pone triste☹️",
+                    "puedo acumular refrigerios":"No, el refrigerio o almuerzo solo es válido por el día de tu turno y no es acumulable o se puede consumir otro día. Busca la manera de poder reclamarlo de lo contrario se pierde esa platica y Días se pone triste☹️",
+                    "que tengo que decir para reclamar refrigerio o almuerzo":"Primero te diriges al lugar donde deseas comer, luego dices en la caja: Hola, vengo a reclamar un refrigero o almuerzo (dependiendo de tu caso) de bambu del bolsillo Dias EAFIT, Espero que disfrutes tu comida, ¡te la ganaste!",
+                    "me entregan el refrigerio o lo debo reclamar en algun lugar":"No hay respuesta todavia x4",
+                    "como ingreso a bambbu":"Aquí te envio nuestro manual de supervivencia a Banbuu, alli podrás encontrar todos los pasos a seguir (falta poner el link del manual)",
+                    "donde puedo reclamar mi refrigerio o almuerzo":"Aquí te envio nuestro menú de consecionarios donde podrás encontrar todos los lugares y lo que puedes pedir en cada uno, eso si preparate para decidir porque todo es delicioso (agresgar menu)",
+                    "que pasa si soy vegana o vegetariana":"Primero que todo, yo quisiera ser como tú, segundo no te me preocupes porque aquí hay para todos, aquí te envío nuestro menú de concesionarios donde podrás encontrar un montón de opciones, estoy segure de que algo va a ser perfecto para ti",
+                    "me tengo que quedar todo el turno para poder reclamar refrigerio o almuerzo":"No hay respuesta todavia x5",
+                    "puedo regalar el refrigerio o almuerzo":"No hay respuesta todavia x6",
+                    "cuanto tiempo mínimo tengo que hacer para obtener refrigerio o almuerzo":"No hay respuesta todavia x7"
                 }
             },
             "turnos": {
-                "respuesta": "Puedes obtener información sobre los turnos de la siguiente manera:",
                 "subopciones": {
-                    "consultar turnos": "Para consultar tus turnos, puedes acceder al sistema de gestión interna usando tu identificador de empleado.",
-                    "cambiar turno": "Para cambiar un turno, necesitas contactar al departamento de recursos humanos."
+                    "cual es el punto de encuentro del gap": "No hay respuesta todavia x8",
+                    "a que hora tiene que llegar el gap": "No hay respuesta todavia x9",
+                    "donde consulto mis turnos":"No hay respuesta todavia x10",
+                    "me tengo que quedar todo el turno ":"No hay respuesta todavia x11",
+                    "":""
                 }
             },
             "generalidades": {
-                "respuesta": "Aquí puedes encontrar información general sobre la organización y sus políticas:",
                 "subopciones": {
                     "politicas de la empresa": "Las políticas de la empresa están diseñadas para asegurar un ambiente de trabajo seguro y respetuoso para todos.",
                     "normativas": "Las normativas internas incluyen regulaciones sobre el uso de los espacios comunes y la conducta en el lugar de trabajo."
