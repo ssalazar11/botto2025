@@ -46,7 +46,7 @@ client.on('message', async message => {
         const opcionesList = Object.keys(dialogos.opciones)
             .map((opcion, idx) => `${String.fromCharCode(97 + idx)}. ${opcion}`)
             .join('\n');
-        client.sendMessage(chatId, `Hola! ¿Qué información necesitas sobre GAP? Puedes preguntar por:\n${opcionesList}\n\nDigita la letra de la pregunta para obtener una respuesta.`);
+        client.sendMessage(chatId, `¡Hola! ¿Qué información necesitas sobre GAP y GT? Puedes preguntar por:\n${opcionesList}\n\nDigita la letra de la pregunta para obtener una respuesta.`);
     } else {
         // Manejo de subopciones numéricas
         if (!isNaN(texto) && sessionStorage[chatId].subOpciones) {
@@ -68,7 +68,7 @@ client.on('message', async message => {
                 const subopciones = Object.keys(dialogos.opciones[opcionElegida].subopciones)
                     .map((sub, idx) => `${idx + 1}. ${sub}`)
                     .join('\n');
-                client.sendMessage(chatId, "También puedes preguntar sobre:\n" + subopciones + "\n\nDigita el número de la subopción para obtener más detalles.");
+                client.sendMessage(chatId, "Puedes preguntar sobre:\n" + subopciones + "\n\nDigita el número de la subopción para obtener más detalles.\nSi quieres saber sobre:\n Alimentacion: digita la letra a\n Turnos: digita la letra b\n Generalidades: digita la letra c");
             } else {
                 sessionStorage[chatId].subOpciones = null;
             }
