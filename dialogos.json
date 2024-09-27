@@ -1,39 +1,63 @@
 {
     "gap": {
         "opciones": {
-            "alimentacion": {
+            "Alimentacion": {
                 "subopciones": {
-                    "puedo repetir refrigerio o almuerzo": "No☹️, yo también quedé con ganas de más porque todo estaba muy rico, pero a cada persona se le asignó su comida y sí te damos más dejamos a otra persona sin comer, sí quieres la próxima salimos a comer y así podemos comer todo lo que queramos",
-                    "que pasa si se me perdio el carnet": "No hay respuesta todavia",
-                    "que hago si me aparece que no tengo ni refrigerio ni almuerzo":"¡OMG! Dame un segundo que me dio un mini infarto…. Pero tranqui aqui resolvemos, te vamos a mandar nuestro manual de supervivencia a Bambuu, alli podras encontrar los pasos a seguir y en caso de que nada funione los telefonos de contacto de las personas encargadas",
-                    "cuantos refrigerios o almuerzos tengo":"En el grupo de whatsapp te estaremos informando diariamente cuales son las personas que tienen almuerzo y refrigerio, revísalo ahi",
-                    "hasta que hora puedo reclamar mi refrigerio o almuerzo":"No hay respuesta todavia x2",
-                    "puedo pagar un extra para reclamar algo distinto":"no hay respuesta todavia x3",
-                    "puedo reclamar el refrigerio o almuerzo otro dia":"No, el refrigerio o almuerzo solo es válido por el día de tu turno y no es acumulable o se puede consumir otro día. Busca la manera de poder reclamarlo de lo contrario se pierde esa platica y Días se pone triste☹️",
-                    "puedo acumular refrigerios":"No, el refrigerio o almuerzo solo es válido por el día de tu turno y no es acumulable o se puede consumir otro día. Busca la manera de poder reclamarlo de lo contrario se pierde esa platica y Días se pone triste☹️",
-                    "que tengo que decir para reclamar refrigerio o almuerzo":"Primero te diriges al lugar donde deseas comer, luego dices en la caja: Hola, vengo a reclamar un refrigero o almuerzo (dependiendo de tu caso) de bambu del bolsillo Dias EAFIT, Espero que disfrutes tu comida, ¡te la ganaste!",
-                    "me entregan el refrigerio o lo debo reclamar en algun lugar":"No hay respuesta todavia x4",
-                    "como ingreso a bambbu":"Aquí te envio nuestro manual de supervivencia a Banbuu, alli podrás encontrar todos los pasos a seguir\nhttps://eafit-my.sharepoint.com/:i:/g/personal/mmejiah5_eafit_edu_co/Ea-zooBEhVNEvq-FtpzFLe8B8SkyAONOklTRZIQhBP_NBA?e=FqYoJW",
-                    "donde puedo reclamar mi refrigerio o almuerzo":"Aquí te envio nuestro menú de consecionarios donde podrás encontrar todos los lugares y lo que puedes pedir en cada uno, eso si preparate para decidir porque todo es delicioso\nhttps://eafit-my.sharepoint.com/:b:/g/personal/mmejiah5_eafit_edu_co/EcNuLAepsFVOltQydvhy9FYBKRk4838E2jLwdE6KOSlopQ?e=scwJib",
-                    "que pasa si soy vegana o vegetariana":"Primero que todo, yo quisiera ser como tú, segundo no te me preocupes porque aquí hay para todos, aquí te envío nuestro menú de concesionarios donde podrás encontrar un montón de opciones, estoy segure de que algo va a ser perfecto para ti",
-                    "me tengo que quedar todo el turno para poder reclamar refrigerio o almuerzo":"No hay respuesta todavia x5",
-                    "puedo regalar el refrigerio o almuerzo":"No hay respuesta todavia x6",
-                    "cuanto tiempo mínimo tengo que hacer para obtener refrigerio o almuerzo":"No hay respuesta todavia x7"
+                    "¿Puedo repetir refrigerio o almuerzo?": "No☹️, yo también quedé con ganas de más porque todo estaba muy rico, pero a cada persona se le asignó su comida y sí te damos más dejamos a otra persona sin comer, sí quieres la próxima salimos a comer y así podemos comer todo lo que queramos",
+                    "¿Qué pasa si se me perdió el carnet?": "Ey , ¿que paso ahi? debes de avisarle antes de la semana de Dias a GH o Logistica que no tienes carnet",
+                    "¿Qué hago si me aparece que no tengo ni refrigerio ni almuerzo?":"¡OMG! Dame un segundo que me dio un mini infarto…. Pero tranqui aqui resolvemos, te vamos a mandar nuestro manual de supervivencia a Bambuu, alli podras encontrar los pasos a seguir y en caso de que nada funione los telefonos de contacto de las personas encargadas",
+                    "¿Cuantos refrigerios o almuerzos tengo?":"En el grupo de whatsapp te estaremos informando diariamente cuales son las personas que tienen almuerzo y refrigerio, revísalo ahi",
+                    "¿Hasta que hora puedo reclamar mi refrigerio o almuerzo?":"Los refrigerios los puedes reclamar a lo largo del día en los consecionarios indicados. Los almuerzos debes reclamarlos entre 11:30 a.m. a 2 p.m. Después de esta hora solo podrás reclamar si el consencionario te deja.",
+                    "¿Puedo pagar un extra para reclamar algo distinto?":"Ñao mi ñao, solo en Hood puedes pagar el excedente y comprarte otra cosita. ",
+                    "¿Puedo reclamar el refrigerio o almuerzo otro día?":"No, el refrigerio o almuerzo solo es válido por el día de tu turno y no es acumulable o se puede consumir otro día. Busca la manera de poder reclamarlo de lo contrario se pierde esa platica y Días se pone triste☹️",
+                    "¿Puedo acumular refrigerios?":"No, el refrigerio o almuerzo solo es válido por el día de tu turno y no es acumulable o se puede consumir otro día. Busca la manera de poder reclamarlo de lo contrario se pierde esa platica y Días se pone triste☹️",
+                    "¿Qué tengo que decir para reclamar refrigerio o almuerzo?":"Primero te diriges al lugar donde deseas comer, luego dices en la caja: Hola, vengo a reclamar un refrigero o almuerzo (dependiendo de tu caso) de bambu del bolsillo Dias EAFIT, Espero que disfrutes tu comida, ¡te la ganaste!",
+                    "¿Me entregan el refrigerio o lo debo reclamar en algún lugar?":"Primero te diriges al lugar donde deseas comer, luego dices en la caja: Hola, vengo a reclamar un refrigero o almuerzo (dependiendo de tu caso) de bambu del bolsillo Dias EAFIT, Espero que disfrutes tu comida, ¡te la ganaste!",
+                    "¿como ingreso a bambbu?":"Aquí te envio nuestro manual de supervivencia a Bambbu, alli podrás encontrar todos los pasos a seguir\nhttps://eafit-my.sharepoint.com/:i:/g/personal/mmejiah5_eafit_edu_co/Ea-zooBEhVNEvq-FtpzFLe8B8SkyAONOklTRZIQhBP_NBA?e=FqYoJW",
+                    "¿Dónde puedo reclamar mi refrigerio o almuerzo?":"Aquí te envio nuestro menú de consecionarios donde podrás encontrar todos los lugares y lo que puedes pedir en cada uno, eso si preparate para decidir porque todo es delicioso\nhttps://eafit-my.sharepoint.com/:b:/g/personal/mmejiah5_eafit_edu_co/EcNuLAepsFVOltQydvhy9FYBKRk4838E2jLwdE6KOSlopQ?e=scwJib",
+                    "¿Que pasa si soy vegana o vegetariana?":"Primero que todo, yo quisiera ser como tú, segundo no te me preocupes porque aquí hay para todos, aquí te envío nuestro menú de concesionarios donde podrás encontrar un montón de opciones, estoy segure de que algo va a ser perfecto para ti",
+                    "¿Me tengo que quedar todo el turno para poder reclamar refrigerio o almuerzo?":"Clarooooooo, ojito que irse del turno sin excusa válida te da llamado de atención.",
+                    "¿Puedo regalar el refrigerio o almuerzo?":"Si quiere me lo regala a mí de una vez. Estos refrigerios son una compensación de su trabajo, regalarlo no es lo ideal.",
+                    "¿Cuánto tiempo mínimo tengo que hacer para obtener refrigerio o almuerzo?":"Las personas que cumplen con un turno es decir 3 horas o menos tienen refrigerio, y las personas que cumplen con mas de 2 turnos tienen almuerzo.",
+                    "¿Si tengo todos los turnos seguidos a qué hora puedo almorzar?":"Apenas termines nos turnos tendras el espacio. Igual si tienes muchos seguidos el GT de Gestión humana se encargara de sacarte el espacio. "
                 }
             },
-            "turnos": {
+            "Turnos y camisetas": {
                 "subopciones": {
-                    "cual es el punto de encuentro del gap": "No hay respuesta todavia x8",
-                    "a que hora tiene que llegar el gap": "No hay respuesta todavia x9",
-                    "donde consulto mis turnos":"No hay respuesta todavia x10",
-                    "me tengo que quedar todo el turno ":"No hay respuesta todavia x11",
-                    "":""
+                    "¿Cuál es el punto de encuentro del GAP?": "¿Muy perdido o que? Tranqui que en el grupo de WhatsApp te estaremos avisando cual sera el punto de encuentro del día.",
+                    "¿A qué hora tiene que llegar el gap?": "Depende del turno que tengas, y estos te lo senviamos por correo y a través del grupo de WhatApp",
+                    "¿Dónde consulto mis turnos?":"Si eres GAP lo debes tener en tu correo, si eres GT esta en la comunidad de GT",
+                    "¿Me tengo que quedar todo el turno ?":"Ey no me la hagas, ojito que no estar en el turno completo sin excusa válida da llamado de atención.",
+                    "¿Cuando me entregan la camisa?":"La hermosa camisa de este año se entrega una semana antes del evento y puedes reclamarla en la ofi (29, quinto piso) dices que vas por tu camisa de Días y alguien ahi se encargará de entregartela, Te vas a ver super divis te lo aseguro",
+                    "¿Puedo ser gap de cuantos días?":"Te puedes inscribir las veces que tú quieras, entre más días mas oportunidades de divertirte, aprender, conocer personas nuevas, integrarte, reírte y vivir experiencias únicas, Por allá te espero ojo pues",
+                    "¿A cuántos turnos me puedo inscribir?":"Te puedes inscribir las veces que tú quieras, entre más días mas oportunidades de divertirte, aprender, conocer personas nuevas, integrarte, reírte y vivir experiencias únicas, Por allá te espero ojo pues",
+                    "¿Cómo se si soy gap?":"Uy ya esta tarde pa preguntar eso, pero te debió haber llegado a tu correo indicando que día serás parte del GAP.",
+                    "¿Que hago si no traje mi camiseta?":"Ey te amasaste un roce, pero si no trajiste la camiseta la puedes pedir prestada a alguien y avisar a la(s) directoras de GH. En caso de que no la tengas no podrás ser parte del evento ese día.",
+                    "¿Cuantas funciones me pueden poner en un turno?":"Por turno tendras una función. Dependiendo de lo que pase en el día esta puede cambiar pero te lo estaremos haciendo saber.",
+                    "¿Que pasa si no puedo asistir?":"OJOOOOOO Deben enviar a las directoras de GH tu excusa (Carolina Vélez: 3052438398 y Daniela Toro: 3016094165.) y explicar que turno no vas a asistir. PORFAVOR AVISAR CON TIEMPO.  No asistir a un turno sin excusa válida tiene llamado de atención.",
+                    "¿Quienes son los directores?":"Contamos con 17 directores los cuales podrás reconocer en la siguiente imagen con su respectivo color de dirección, sí te interesas en alguno en @Diaseafit encuentras su instagram😉",
+                    "¿Que hago en caso de emergencia? ( Evacuación, incendio, whatever)":"Primero respira, hay que mantener la calma, sí no sabes que hacer sigue a las personas capacitadas que están dando las indicaciones adecuadas de cómo reaccionar, eso si, en ninguna circunstancia corras, grites o llames a tu ex, nuestros personal está capacitado para que salgas sano y salvo de todas las situaciones",
+                    "Si tengo un problema en el evento, ¿A quien acudo ?":"Dependiendo del día debes acercarte al líder de zona, luego al líder de GT, luego a los directores encargados y por último a la Junta.",
+                    "¿Como identificó los que tienen APH?":"Nuestras personas capacitadas en APH están distinguidos con pañoleta blanca🤍, busca al mas cercano y cuéntale tu caso o dirígete a alguien con radio para que te contacte uno lo más rápido posible",
+                    "¿Puedo cambiar mi turno?":"Si vas a cambiar tu turno, debes avisar con anticipación y tener una excusa válida.",
+                    "¿Con cuánto tiempo debo llegar para el turno?":"Debes  llegar 10 min antes de tu turno al punto de encuentro asignado en el grupo",
+                    "¿Que hago si me tengo que ir antes del turno?":"Debes avisar con tiempo a las directoras de GH (Carolina Vélez: 3052438398 y Daniela Toro: 3016094165.)"
                 }
             },
-            "generalidades": {
+            "Generalidades": {
                 "subopciones": {
-                    "politicas de la empresa": "Las políticas de la empresa están diseñadas para asegurar un ambiente de trabajo seguro y respetuoso para todos.",
-                    "normativas": "Las normativas internas incluyen regulaciones sobre el uso de los espacios comunes y la conducta en el lugar de trabajo."
+                    "Mi compañero de GAP es amasado, ¿que hago?": "Uy no te tocaba, si tienes algún problema con tus compañeros hazlo saber a las directoras de GH que tienen distintivo morado.",
+                    "¿Puedo ser GAP de otros días si voy a jugar The GAMES?": "¡Claro que si! Puedes ser GAP en los primeros 3 Días del evento, inscríbete que voy a estar muy feliz de verte por allá con la camisa",
+                    "¿Me tengo que meter a todos los días?":"No mi corazón el descanso es muy importante, aunque no me quejo si te inscribes todos los días por mi encantade, lo que quiero decir es que no es obligatorio pero yo estaría feliz de verte por allá",
+                    "¿Qué es gap?":"El GAP es el grupo de apoyo, son los que ayudan a que este evento se haga realidad y salga como se planeó, pero no todo es trabajo aquí conocemos gente nueva, nos integramos, tomamos fotos, nos divertimos, reímos y aprendemos. ¿Ya te inscribiste? no te pierdas una de las mejores experiencias en la OE",
+                    "¿Cuales son los colores de las direcciones?": "Tenemos 9 direcciones que podrás reconocer a sus directores y Gts con sus pañoletas de colores:\nGenerales: Azul clarito\nGestión Humana: Morado\nFinanzas: Aguamarina\nMercadeo: Fucsia\nPublicidad: Naranja\nLogística: Rosadito clarito\nSeguridad: Verde\nCarnival: Azul oscuro\nThe games: Rojo\nY si encuentras algunas personas con pañoleta 🤍 es porque también son APH (Programa de Atención prehospitalaria)",
+                    "¿Que pasa si me maluqueo?": "Ay nooo, si estas maluco acercate a las personas con pañoleta blanca o verde y ellos te ayudarán. ",
+                    "¿Que pasa si voy tarde al turno o no puedo llegar?":"Ey hay que madrugaaaaar. Si vienes tarde debes avisarle a las directoras de GH (Carolina Vélez: 3052438398 y Daniela Toro: 3016094165.)",
+                    "¿Quien me puede explicar las funciones?":"GH que tienen pañoleta morada son quienes te pueden ayudar con tus dudas acerca de las funciones.",
+                    "¿Con quién hablo si tengo algún problema?": "Sí es un problema con Días cuéntame de que se trata y yo te puedo ayudar o darte un contacto mas directo, pero si es con el toxico si quieres nos podemos tomar un café y chismoseamos un rato",
+                    "¿Como saber si estoy de gap o de gt?": "Los dos tienen funciones distintas, GAP significa grupo de apoyo, y son las personas que se inscribieron hace poco a través de un link para ayudar en Días, mientras que el GT es el grupo de trabajo y llevan todo el año trabajando junto con una dirección en específica para que el evento quede 20/10, igual no importa lo que seas, lo importante es que sepas tu función y que además estas en mi corazón",
+                    "¿Qué hago si se daña mi base?":"Uy que le hizoooo. Te puedes acercar al lider de zona que este cerca con pañoleta azul en carnival y pañoleta roja en the games.",
+                    "¿Puedo jugar en the games si estoy en un gt?":"Puedes hacerlo siempre y cuando no estes en el GT de Seguridad o The games, aunque te recomiendo que primero hables con tu director por si de pronto te necesitan ese día y si juegas disfrútalo que es una experiencia única."
                 }
             }
         }
