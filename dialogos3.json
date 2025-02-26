@@ -1,0 +1,35 @@
+{
+    "gap":{
+        "opciones":{
+            "DIAS":{
+                "subopciones":{
+                    "¿Que es DIAS EAFIT?":"DIAS es el evento mas grande de la universidad realizado en el segundo semestre del año. Consiste en 5 días de diferentes actividades",
+                    "¿Que es Carnival?":"Carnival es la actividad realizada en el tercer día de DIAS. Consiste en jornadas de juegos tipo carnival americano con bases mayormente construidas e ideadas por cada comité",
+                    "¿Que es The Games?":"The games es la actividad realizada en el cuarto y quinto día de Dias. Esto consiste en un juegos tipo el desafio conformado por 30 equipos"
+                }
+            },
+            "GAP y GT":{
+                "subopciones":{
+                    "¿Que es GAP?":"GAP (Grupo de apoyo) son las personas que dan un apoyo general en el evento",
+                    "¿Que es GT?":"GT (Grupo de trabajo) Son las personas que dan un apoyo especifico a una dirección",
+                    "¿Cual es la diferencia entre GT y GAP?":"Las diferencias es que el GAP son manejados por GH y realizan diversas labores en el evento mientras que los GT son escogidos por los directores y son dirigidos por cada dirección?",
+                    "¿Como me uno al GAP?":"Las convocatorias de GAP se realizan faltando alrededor de 2 semanas antes del evento",
+                    "¿Como me uno al GT?":"Las convocatorias de GT se abren en el primer semestre y tienes que realizar una entrevista con los directores"
+                }
+            },
+            "Horarios de reuniones de GT":{
+                "subopciones":{
+                    "Generales":"1pm-2pm los miercoles en el 29-201",
+                    "GH":"4pm-5pm los martes en el 38-402",
+                    "Seguridad":"8am-9am los jueves en el 7-101",
+                    "Logistica":"6pm-7pm los miercoles en el 35-202",
+                    "Carnival":"4pm-5pm los viernes en el 33-303",
+                    "The games":"11am-12pm los lunes en el 34-202",
+                    "mercadeo":"4pm-5pm los martes en el 38-301",
+                    "publicidad":"2pm-3pm los lunes en el 33-204",
+                    "Finanzas":"4pm-5pm los jueves en el 35-201"
+                }
+            }
+        }
+    }
+}

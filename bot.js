@@ -6,7 +6,7 @@ function normalizarTexto(texto) {
     return texto.normalize("NFD").replace(/[\u0300-\u036f]/g, "").toLowerCase();
 }
 
-const dialogosPath = './dialogos.json';
+const dialogosPath = './dialogos3.json';
 let dialogos = {};
 if (fs.existsSync(dialogosPath)) {
     dialogos = JSON.parse(fs.readFileSync(dialogosPath, 'utf8'))['gap'];
@@ -52,7 +52,16 @@ client.on('message', async message => {
         if (!isNaN(texto) && sessionStorage[chatId].subOpciones) {
             const numeroElegido = parseInt(texto) - 1;
             const subOpcionesKeys = Object.keys(sessionStorage[chatId].subOpciones);
-            if (numeroElegido >= 0 && numeroElegido < subOpcionesKeys.length) {
+
+            // Verificar si el usuario seleccionó la opción de volver al menú principal
+            if (numeroElegido === subOpcionesKeys.length) {
+                sessionStorage[chatId].subOpciones = null;
+                const opcionesList = Object.keys(dialogos.opciones)
+                    .map((opcion, idx) => `${String.fromCharCode(97 + idx)}. ${opcion}`)
+                    .join('\n');
+                client.sendMessage(chatId, `Volviendo al menú principal:\n${opcionesList}\n\nDigita la letra de la pregunta para obtener una respuesta.`);
+                return;
+            } else if (numeroElegido >= 0 && numeroElegido < subOpcionesKeys.length) {
                 client.sendMessage(chatId, sessionStorage[chatId].subOpciones[subOpcionesKeys[numeroElegido]]);
                 return;
             }
@@ -65,10 +74,14 @@ client.on('message', async message => {
             client.sendMessage(chatId, respuesta);
             if ('subopciones' in dialogos.opciones[opcionElegida]) {
                 sessionStorage[chatId].subOpciones = dialogos.opciones[opcionElegida].subopciones;
-                const subopciones = Object.keys(dialogos.opciones[opcionElegida].subopciones)
+
+                // Añadir opción "Volver al menú principal"
+                const subopcionesKeys = Object.keys(dialogos.opciones[opcionElegida].subopciones);
+                const subopciones = subopcionesKeys
                     .map((sub, idx) => `${idx + 1}. ${sub}`)
-                    .join('\n');
-                client.sendMessage(chatId, "Puedes preguntar sobre:\n" + subopciones + "\n\nDigita el número de la subopción para obtener más detalles.\nSi quieres saber sobre:\n Alimentacion: digita la letra a\n Turnos: digita la letra b\n Generalidades: digita la letra c");
+                    .join('\n') + `\n${subopcionesKeys.length + 1}. Volver al menú principal`;
+
+                client.sendMessage(chatId, "Puedes preguntar sobre:\n" + subopciones);
             } else {
                 sessionStorage[chatId].subOpciones = null;
             }

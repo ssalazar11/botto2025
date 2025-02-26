@@ -1,0 +1,28 @@
+{
+    "gap":{
+        "opciones":{
+            "DIAS":{
+                "subopciones":{
+                    "¿Que es DIAS EAFIT?":"DIAS es el evento mas grande de la universidad realizado en el segundo semestre del año. Consiste en 5 días de diferentes actividades",
+                    "¿Que es Carnival?":"Carnival es la actividad realizada en el tercer día de DIAS. Consiste en jornadas de juegos tipo carnival americano con bases mayormente construidas e ideadas por cada comité",
+                    "¿Que es The Games?":"The games es la actividad realizada en el cuarto y quinto día de Dias. Esto consiste en un juegos tipo el desafio conformado por 30 equipos"
+                }
+            },
+            "GAP y GT":{
+                "subopciones":{
+                    "¿Que es GAP?":"GAP (Grupo de apoyo) son las personas que dan un apoyo general en el evento",
+                    "¿Que es GT?":"GT (Grupo de trabajo) Son las personas que dan un apoyo especifico a una dirección",
+                    "¿Cual es la diferencia entre GT y GAP?":"Las diferencias es que el GAP son manejados por GH y realizan diversas labores en el evento mientras que los GT son escogidos por los directores y son dirigidos por cada dirección?",
+                    "¿Como me uno al GAP?":"Las convocatorias de GAP se realizan faltando alrededor de 2 semanas antes del evento",
+                    "¿Como me uno al GT?":"Las convocatorias de GT se abren en el primer semestre y tienes que realizar una entrevista con los directores"
+                }
+            },
+            "Entrevista":{
+                "subopciones":{
+                    "¿En que consiste la entrevista de GT?":"La entrevista es simplemente un espacio en la cual te reunes con los directores y tienen una conversación",
+                    "¿Cual es el link de entrevista?":"Mira el link para que agendes tu entrevista:\nhttps://linkdelaentrevista.com"
+                }
+            }
+        }
+    }
+}
