@@ -4,8 +4,10 @@
             "DIAS":{
                 "subopciones":{
                     "¿Que es DIAS EAFIT?":"DIAS es el evento mas grande de la universidad realizado en el segundo semestre del año. Consiste en 5 días de diferentes actividades",
+                    "¿Que es The Show?":"The show es el primer día del evento, acá realizamos un show con varios DJs e invitados",
+                    "¿Que es The Zone?":"The zone es el segundo día del evento, este día es realizamos un bazar de marcas, zona de comida y otras actividadescon marcas."
                     "¿Que es Carnival?":"Carnival es la actividad realizada en el tercer día de DIAS. Consiste en jornadas de juegos tipo carnival americano con bases mayormente construidas e ideadas por cada comité",
-                    "¿Que es The Games?":"The games es la actividad realizada en el cuarto y quinto día de Dias. Esto consiste en un juegos tipo el desafio conformado por 30 equipos"
+                    "¿Que es The Games?":"The games es la actividad realizada en el cuarto y quinto día de Dias. Este día consiste en juegos tipo el desafio conformado por 30 equipos."
                 }
             },
             "GAP y GT":{
